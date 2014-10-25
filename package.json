@@ -1,0 +1,17 @@
+{
+  "name": "format-i18n",
+  "version": "0.0.1",
+  "description": "An easy way to use format.js for internationalisation.",
+  "homepage": "https://github.com/skimberk1/format-i18n",
+  "main": "index.js",
+  "author": "Sebastian Kimberk",
+  "license": "MIT",
+  "dependencies": {
+    "callsite": "~1.0.0",
+    "node-dir": "~0.1.6",
+    "js-yaml": "~3.2.2",
+    "wrench": "~1.5.8",
+    "intl": "~0.1.4",
+    "intl-messageformat": "~1.0.1"
+  }
+}
